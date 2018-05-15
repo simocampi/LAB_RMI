@@ -21,6 +21,6 @@ public class Client implements SharedClient {
 
     @Override
     public void notify(String res) throws RemoteException {
-
+        //ciao
     }
 }
